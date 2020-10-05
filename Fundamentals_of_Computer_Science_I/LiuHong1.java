@@ -1,6 +1,6 @@
 // 
 // Class: CS210
-// Written By: Hong Liu
+// Written By:
 // Date: 02192019
 // Deficiency: if entering the string, the metnod singleTax() could not address this problem. 
 //
